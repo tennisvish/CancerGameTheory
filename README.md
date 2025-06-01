@@ -4,6 +4,8 @@ This repository contains Python code to simulate and visualize the Hawk-Dove gam
 
 # Contents
 TumorGameTheory.ipynb
+LICENSE
+README.md
 
 # Quick Start
 Clone this repository and run code in Google Colab or similar environment
@@ -12,6 +14,10 @@ All adjustable paramters are at the top of each cell (used for each figure in pa
   -Code is annotated to explain and show which paramaters are adjustable
 
 # How to Cite
+If you use this model or code in your work, please cite:
+
+Vishnu Prasad. (2025). *Spatial evolutionary game theory of tumor-immune interactions predicts heterogeneity and therapy resistance* [Code]. Zenodo. [https://doi.org/10.5281/zenodo.15568167]
+This project is licensed under the MIT license-see the LICENSE file for details
 
 # Troubleshooting
 For slow performance, reduce grid size or number of iterations
