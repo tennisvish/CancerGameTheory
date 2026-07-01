@@ -1,6 +1,6 @@
 # Spatial Evolutionary Game Theory of Tumor-Immune Interactions
 This repository contains Python code to simulate and visualize the Hawk-Dove game model of tumor-immune interactions described in the paper:  
-**"Spatial Evolutionary Game Theory of Tumor-immune Interactions Predicts Heterogeneity and Therapy Resistance"**
+**"Spatial Evolutionary Game Theory of Tumor-immune Interactions Reveals Heterogeneity and Therapy Resistance Dynamics"**
 
 # Contents
 TumorGameTheory.ipynb
@@ -16,7 +16,7 @@ All adjustable paramters are at the top of each cell (used for each figure in pa
 # How to Cite
 If you use this model or code in your work, please cite:
 
-Vishnu Prasad. (2025). *Spatial evolutionary game theory of tumor-immune interactions predicts heterogeneity and therapy resistance* [Code]. Zenodo. [https://doi.org/10.5281/zenodo.15568167]
+Vishnu Prasad. (2025). *Spatial evolutionary game theory of tumor-immune interactions reveals heterogeneity and therapy resistance dynamics* [Code]. Zenodo. [https://doi.org/10.5281/zenodo.15568167]
 This project is licensed under the MIT license-see the LICENSE file for details
 
 # Troubleshooting
