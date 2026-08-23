@@ -3,7 +3,7 @@ This repository contains Python code to simulate and visualize the Hawk-Dove gam
 **"Spatial Evolutionary Game Theory of Tumor-immune Interactions Reveals Heterogeneity and Therapy Resistance Dynamics"**
 
 # Contents
-iScience_TumorGameTheory_Publication_06_25_26.ipynb
+TumorGameTheory_Publication_06_25_26.ipynb
 LICENSE
 README.md
 
